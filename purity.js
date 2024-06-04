@@ -36,7 +36,7 @@ function showPopup() {
     popup.style.display = 'block';
     popup.style.backgroundColor = '#ffffff';
     popup.style.width = '420px';
-    popup.style.padding = '30px 40px';
+    popup.style.padding = '20px 20px';
     popup.style.position = 'absolute';
     popup.style.transform = 'translate(-50%, -50%)';
     popup.style.left = '50%';
@@ -56,8 +56,8 @@ function showPopup() {
     closeButton.style.color = '#ffffff';
     closeButton.style.background = '#03549a';
     closeButton.style.borderRadius = '100%';
-    closeButton.style.width = '40px';
-    closeButton.style.height = '40px';
+    closeButton.style.width = '30px';
+    closeButton.style.height = '30px';
     closeButton.style.border = 'none';
     closeButton.style.outline = 'none';
     closeButton.style.cursor = 'pointer';
